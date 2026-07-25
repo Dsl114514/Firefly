@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Dsl的博客",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://taxdslblog.de5.net/",
 
 	// 站点描述
 	description:
