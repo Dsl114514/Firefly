@@ -94,11 +94,11 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 			// 动作声音音量 范围0~1，默认 0（静音）
 			volume: 0,
 			// 模型缩放比例
-			scale: 1,
+			scale: 5,
 			// X轴偏移，范围 -2~2，正值向右
 			x: 0,
 			// Y轴偏移，范围 -2~2，正值向上
-			y: 0,
+			y: -2,
 		},
 		{
 			// 外部直连模型
