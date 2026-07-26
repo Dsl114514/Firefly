@@ -90,7 +90,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 	model: [
 		{
 			// Live2D模型本地文件路径
-			path: "src/pio/models/live2d/AnAn/AnAn - model.json",
+			path: "src/pio/models/live2d/AnAn/AnAn - model.physics3.json",
 			// 动作声音音量 范围0~1，默认 0（静音）
 			volume: 0,
 			// 模型缩放比例
