@@ -155,7 +155,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 	// 提示气泡配置
 	tips: {
 		// 气泡开关
-		enable: true,
+		enable: false,
 		// 初始欢迎消息
 		welcomeMessage: ["你好呀！", "欢迎来到我的世界！"],
 		// 循环提示内容
