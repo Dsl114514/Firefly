@@ -96,9 +96,9 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 			// 模型缩放比例
 			scale: 3,
 			// X轴偏移，范围 -2~2，正值向右
-			x: 0,
+			x: 1,
 			// Y轴偏移，范围 -2~2，正值向上
-			y: -2,
+			y: -1,
 		},
 		{
 			// 外部直连模型
