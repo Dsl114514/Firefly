@@ -104,7 +104,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 			// 外部直连模型
 			path: "https://model.hacxy.cn/cat-black/model.json",
 			volume: 0,
-			scale: 1,
+			scale: 0,
 			x: 0,
 			y: 0,
 		},
